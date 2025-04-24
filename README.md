@@ -57,5 +57,4 @@ Additional Tips
 Use these commands carefully and ensure you have backups if necessary.
 
 
-Would you like me to help you with anything else?
 
